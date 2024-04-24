@@ -1,0 +1,6 @@
+.DS_Store
+demo.py
+__pycache__/
+.env
+envs/
+*.ipynb
